@@ -1,0 +1,20 @@
+name: django-polymorphic
+pypi_name: django-polymorphic
+version: "2.1.2"
+repo_url: https://github.com/django-polymorphic/django-polymorphic
+author: Bert Constantin
+author_email: bert.constantin@gmx.de
+maintainer: Christopher Glass
+maintainer_email: tribaal@gmail.com
+doc_url: https://django-polymorphic.readthedocs.io
+requirements:
+  - "Django >= 1.11"
+django3_ready: false
+migrations_updated: false
+description_fr:
+description_en: Seamless polymorphic inheritance for Django models
+is_testing: true
+is_admin: true
+tags:
+  - models
+  - polymorphic

@@ -1,0 +1,2 @@
+../requirements-base.txt
+django-polymorphic==2.1.2
